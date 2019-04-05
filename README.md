@@ -1,6 +1,4 @@
-# Wikipedia-Reliable-Sources
-
-Configuration for WRS, the search engine that aims to only return results from reliable websites
+Configuration for [WRS](https://en.wikipedia.org/wiki/User:Syced/Wikipedia_Reference_Search), the search engine that aims to only return results from reliable websites.
 
 # How to contribute
 
