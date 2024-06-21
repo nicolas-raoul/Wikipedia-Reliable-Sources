@@ -56,6 +56,8 @@ URL	Label
 *.wired.co.uk/* _cse_galkqgoksq0
 *.wyborcza.pl/* _cse_galkqgoksq0
 *.chicagotribune.newspapers.com/*	_cse_galkqgoksq0
+*.chicagotribune.com/*	_cse_galkqgoksq0
+*.sfchronicle.com/*	_cse_galkqgoksq0
 *.crash.net/*	_cse_galkqgoksq0
 *.planet-f1.com/*	_cse_galkqgoksq0
 *.mclaren.com/*	_cse_galkqgoksq0
@@ -599,5 +601,6 @@ reason.com/volokh* _cse_exclude_galkqgoksq0
 *.swissinfo.ch/eng/opinions/*	_cse_exclude_galkqgoksq0
 *.wfae.org/opinion/*	_cse_exclude_galkqgoksq0
 *.seattletimes.com/opinion/*	_cse_exclude_galkqgoksq0
-*.chicagotribune.com/*editorial*	_cse_exclude_galkqgoksq0
+*.chicagotribune.com/*editorial*
+*.sfchronicle.com/opinion/*	_cse_exclude_galkqgoksq0
 *.sfgate.com/politics-op-eds/*	_cse_exclude_galkqgoksq0
