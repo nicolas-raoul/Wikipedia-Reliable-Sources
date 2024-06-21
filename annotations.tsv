@@ -1,11 +1,12 @@
 URL	Label
+*.gijn.org/stories*
+*.inn.org*
 *.afp.com/* _cse_galkqgoksq0
 *.atlasobscura.com/articles* _cse_galkqgoksq0
 *.axios.com/* _cse_galkqgoksq0
 *.behindthevoiceactors.com/* _cse_galkqgoksq0
 *.bellingcat.com/* _cse_galkqgoksq0
 *.burkespeerage.com/* _cse_galkqgoksq0
-*.businessinsider.com/* _cse_galkqgoksq0
 *.climatefeedback.org/* _cse_galkqgoksq0
 *.codastory.com/* _cse_galkqgoksq0
 *.commonsensemedia.org/* _cse_galkqgoksq0
@@ -56,17 +57,13 @@ URL	Label
 *.wyborcza.pl/* _cse_galkqgoksq0
 *.chicagotribune.newspapers.com/*	_cse_galkqgoksq0
 *.crash.net/*	_cse_galkqgoksq0
-*.brawngp.com/*	_cse_galkqgoksq0
-*.gpupdate.net/*	_cse_galkqgoksq0
-*.f1technical.net/*	_cse_galkqgoksq0
 *.planet-f1.com/*	_cse_galkqgoksq0
 *.mclaren.com/*	_cse_galkqgoksq0
-*.f1-live.com/*	_cse_galkqgoksq0
 *.motorsport.com/*	_cse_galkqgoksq0
 *.8w.forix.com/*	_cse_galkqgoksq0
-*.nl.newsbank.com/*	_cse_galkqgoksq0
+*.newslibrary.com/*	_cse_galkqgoksq0
 *.worldcat.org/*	_cse_galkqgoksq0
-*.msnbc.msn.com/*	_cse_galkqgoksq0
+*.msnbc.com/*	_cse_galkqgoksq0
 *.rfi.fr/*	_cse_galkqgoksq0
 *.lemonde.fr/*	_cse_galkqgoksq0
 *.wsj.com/*	_cse_galkqgoksq0
@@ -100,8 +97,7 @@ URL	Label
 *.fcc.gov/*	_cse_galkqgoksq0
 *.parliament.uk/*	_cse_galkqgoksq0
 *.independent.co.uk/*	_cse_galkqgoksq0
-*.ab.ca/*	_cse_galkqgoksq0
-*.canadiana.org/*	_cse_galkqgoksq0
+*.canadiana.ca/*	_cse_galkqgoksq0
 *.archives.gov/*	_cse_galkqgoksq0
 *.espn.go.com/*	_cse_galkqgoksq0
 *.tate.org.uk/*	_cse_galkqgoksq0
@@ -109,15 +105,12 @@ URL	Label
 *.books.google.com/*	_cse_galkqgoksq0
 *.gutenberg.net/*	_cse_galkqgoksq0
 *.nbc.com/*	_cse_galkqgoksq0
-*.businessweek.com/*	_cse_galkqgoksq0
-*.hinduonnet.com/*	_cse_galkqgoksq0
 *.fws.gov/*	_cse_galkqgoksq0
 *.economist.com/*	_cse_galkqgoksq0
 *.fda.gov/*	_cse_galkqgoksq0
-*.space.com/*	_cse_galkqgoksq0
 *.redlist.org/*	_cse_galkqgoksq0
 *.abcnews.go.com/*	_cse_galkqgoksq0
-*.cricinfo.com/*	_cse_galkqgoksq0
+*.espncricinfo.com/*	_cse_galkqgoksq0
 *.vahighways.com/*	_cse_galkqgoksq0
 *.psephos.adam-carr.net/*	_cse_galkqgoksq0
 *.government.bg/*	_cse_galkqgoksq0
@@ -125,7 +118,6 @@ URL	Label
 *.usc.edu/*	_cse_galkqgoksq0
 *.virginia.edu/*	_cse_galkqgoksq0
 *.census.gov/*	_cse_galkqgoksq0
-*.english-nature.org.uk/*	_cse_galkqgoksq0
 *.tufts.edu/*	_cse_galkqgoksq0
 *.qc.ca/*	_cse_galkqgoksq0
 *.usda.gov/*	_cse_galkqgoksq0
@@ -149,7 +141,7 @@ URL	Label
 *.racing-reference.info/*	_cse_galkqgoksq0
 *.army.mil/*	_cse_galkqgoksq0
 *.gg.ca/*	_cse_galkqgoksq0
-*.usdoj.gov/*	_cse_galkqgoksq0
+*.justice.gov/*	_cse_galkqgoksq0
 *.lds.org/*	_cse_galkqgoksq0
 *.fordham.edu/*	_cse_galkqgoksq0
 *.maritimequest.com/*	_cse_galkqgoksq0
@@ -165,7 +157,6 @@ URL	Label
 *.ccel.org/*	_cse_galkqgoksq0
 *.cbsnews.com/*	_cse_galkqgoksq0
 *.emedicine.com/*	_cse_galkqgoksq0
-*.karachicity.gov.pk/*	_cse_galkqgoksq0
 *.baseballhalloffame.org/*	_cse_galkqgoksq0
 *.databasefootball.com/*	_cse_galkqgoksq0
 *.whitehouse.gov/*	_cse_galkqgoksq0
@@ -220,10 +211,8 @@ URL	Label
 *.euskomedia.org/*	_cse_galkqgoksq0
 *.wolfram.com/*	_cse_galkqgoksq0
 *.unt.edu/*	_cse_galkqgoksq0
-*.emporis.com/*	_cse_galkqgoksq0
 *.theyworkforyou.com/*	_cse_galkqgoksq0
 *.ibm.com/*	_cse_galkqgoksq0
-*.sun.com/*	_cse_galkqgoksq0
 *.microsoft.com/*	_cse_galkqgoksq0
 *.fas.org/*	_cse_galkqgoksq0
 *.timesonline.co.uk/*	_cse_galkqgoksq0
@@ -233,7 +222,6 @@ URL	Label
 *.nationalregisterofhistoricplaces.com/*	_cse_galkqgoksq0
 *.baseballlibrary.com/*	_cse_galkqgoksq0
 *.nba.com/*	_cse_galkqgoksq0
-*.rsssf.com/*	_cse_galkqgoksq0
 *.gutenberg.org/*	_cse_galkqgoksq0
 *.npr.org/*	_cse_galkqgoksq0
 *.abc.net.au/*	_cse_galkqgoksq0
@@ -259,7 +247,7 @@ URL	Label
 *.nationalgeographic.com/*	_cse_galkqgoksq0
 *.nsf.gov/*	_cse_galkqgoksq0
 *.nih.gov/*	_cse_galkqgoksq0
-*.nooa.gov/*	_cse_galkqgoksq0
+*.noaa.gov/*	_cse_galkqgoksq0
 *.faqs.org/*	_cse_galkqgoksq0
 *.ietf.org/*	_cse_galkqgoksq0
 *.ieee.org/*	_cse_galkqgoksq0
@@ -274,7 +262,6 @@ URL	Label
 *.csmonitor.com/*	_cse_galkqgoksq0
 *.cnet.com/*	_cse_galkqgoksq0
 *.cnn.com/*	_cse_galkqgoksq0
-*.dailydot.com/*	_cse_galkqgoksq0
 *.deadline.com/*	_cse_galkqgoksq0
 *.deseretnews.com/*	_cse_galkqgoksq0
 *.digitalspy.com/*	_cse_galkqgoksq0
@@ -294,7 +281,6 @@ URL	Label
 *.newsweek.com/*	_cse_galkqgoksq0
 *.people.com/*	_cse_galkqgoksq0
 *.pewresearch.org/*	_cse_galkqgoksq0
-*.playboyenterprises.com/*	_cse_galkqgoksq0
 *.politico.com/*	_cse_galkqgoksq0
 *.politifact.com/*	_cse_galkqgoksq0
 *.theregister.co.uk/*	_cse_galkqgoksq0
@@ -306,7 +292,6 @@ URL	Label
 *.snopes.com/*	_cse_galkqgoksq0
 *.splcenter.org/*	_cse_galkqgoksq0
 *.spiegel.de/*	_cse_galkqgoksq0
-*.thewrap.com/*	_cse_galkqgoksq0
 *.thetimes.co.uk/*	_cse_galkqgoksq0
 *.torrentfreak.com/*	_cse_galkqgoksq0
 *.tvguide.com/*	_cse_galkqgoksq0
@@ -316,9 +301,7 @@ URL	Label
 *.theverge.com/*	_cse_galkqgoksq0
 *.vogue.com/*	_cse_galkqgoksq0
 *.vox.com/*	_cse_galkqgoksq0
-*.weeklystandard.com/*	_cse_galkqgoksq0
 *.wired.com/*	_cse_galkqgoksq0
-*.zdnet.com/*	_cse_galkqgoksq0
 *.si.edu/*	_cse_galkqgoksq0
 *.nypl.org/*	_cse_galkqgoksq0
 *.photo-museum.org/*	_cse_galkqgoksq0
@@ -532,7 +515,6 @@ URL	Label
 *.museums-ioj.org.jm/*	_cse_galkqgoksq0
 *.calmatters.org/* _cse_galkqgoksq0
 *pbcjamaica.org/* _cse_galkqgoksq0
-*.channel4.com/* _cse_galkqgoksq0
 *.followthemoney.org/* _cse_galkqgoksq0
 *.kbs-america.com/* _cse_galkqgoksq0
 *.kqed.org/* _cse_galkqgoksq0
