@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
-<Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_sq0"></Label></Annotation>
+<Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.spectator.us/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.museums-ioj.org.jm/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tepapa.govt.nz/*"><Label name="_include_"></Label></Annotation>
@@ -30,10 +30,10 @@
 <Annotation about="*.oclc.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bnf.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.oxfordartonline.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.sites.tufts.edu/educationopportunities/*"><Label name="_exclude_sq0"></Label></Annotation>
-<Annotation about="*.apple.com/retail/*"><Label name="_exclude_sq0"></Label></Annotation>
-<Annotation about="*.shop.getty.edu/*"><Label name="_exclude_sq0"></Label></Annotation>
-<Annotation about="*.blogs.nytimes.com/*"><Label name="_exclude_sq0"></Label></Annotation>
+<Annotation about="*.sites.tufts.edu/educationopportunities/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.shop.getty.edu/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wesleyan.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ucr.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.texas.edu/*"><Label name="_include_"></Label></Annotation>
@@ -720,4 +720,4 @@
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="blogs.nytimes.com/*"><Label name="_exclude_sq0"></Label></Annotation></Annotations>
+<Annotation about="blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation></Annotations>

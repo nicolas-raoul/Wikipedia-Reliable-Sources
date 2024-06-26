@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomSearchEngine keywords="reference citation wikipedia" language="en" safesearch="false" autocompletions="false" enable_promotions="false" top_refinements="-1">
+<CustomSearchEngine keywords="reference citation wikipedia" language="null" safesearch="false" autocompletions="false" enable_promotions="false" top_refinements="-1">
 	<Title>Wikipedia Reference Search</Title>
 	<Description>Search references for inclusion in Wikipedia.</Description>
 	<Context>
@@ -12,7 +12,7 @@
 		<Logo url="" destination="" height="30"/>
 		<Widget query_parameter_name="q"/>
 	</LookAndFeel>
-	<ImageSearchSettings enable="false"/>
+	<ImageSearchSettings enable="true"/>
 	<cse_advance_settings enable_facet_search="false">
 		<web_search_options enable_history="true" show_structured_data="false">
 			<search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
