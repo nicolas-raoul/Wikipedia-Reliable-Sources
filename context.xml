@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine keywords="reference citation wikipedia" language="en" safesearch="false" autocompletions="false" enable_promotions="false" top_refinements="-1">
+	<Title>Wikipedia Reference Search</Title>
+	<Description>Search references for inclusion in Wikipedia.</Description>
+	<Context>
+		<BackgroundLabels>
+			<Label name="_include_" mode="FILTER"/>
+			<Label name="_exclude_" mode="ELIMINATE"/>
+		</BackgroundLabels>
+	</Context>
+	<LookAndFeel element_layout="1" theme="1" enable_cse_thumbnail="true" custom_theme="false" font="0">
+		<Logo url="" destination="" height="30"/>
+		<Widget query_parameter_name="q"/>
+	</LookAndFeel>
+	<ImageSearchSettings enable="false"/>
+	<cse_advance_settings enable_facet_search="false">
+		<web_search_options enable_history="true" show_structured_data="false">
+			<search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
+		</web_search_options>
+		<image_advanced_options default_to_image_search="false">
+			<search_restrict_args lr="" cr="" gl="" filter="0" sort="" as_siteseach="" as_oq=""/>
+		</image_advanced_options>
+		<search_options link_target=""/>
+		<custom_search_control_options no_results_string=""/>
+	</cse_advance_settings>
+	<autocomplete_settings source="1"/>
+</CustomSearchEngine>
