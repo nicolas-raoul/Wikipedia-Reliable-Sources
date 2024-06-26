@@ -720,4 +720,6 @@
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation></Annotations>
+<Annotation about="blogs.nytimes.com/*"><Label name="_exclude_"></Label>
+</Annotation>
+</Annotations>
