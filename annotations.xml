@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
 <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.spectator.us/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.museums-ioj.org.jm/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tepapa.govt.nz/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.natlib.govt.nz/*"><Label name="_include_"></Label></Annotation>
@@ -14,7 +13,6 @@
 <Annotation about="*.unam.mx/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.dnb.de/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ndl.go.jp/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.rsl.ru/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.anb.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.routledge.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.litencyc.com/*"><Label name="_include_"></Label></Annotation>
@@ -24,7 +22,6 @@
 <Annotation about="*.grubstreet.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vulture.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thecut.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.spectator.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.economist.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cdlib.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.oclc.org/*"><Label name="_include_"></Label></Annotation>
@@ -53,7 +50,6 @@
 <Annotation about="*.llgc.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ku.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hcponline.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.fotomuzeum.hu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.edinphoto.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.creativephotography.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.craf-fvg.it/*"><Label name="_include_"></Label></Annotation>
@@ -123,14 +119,12 @@
 <Annotation about="*.rockhall.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalww2museum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.911memorial.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.sstm.org.cn/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.kennedyspacecenter.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fieldmuseum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ushmm.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.dmns.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.californiasciencecenter.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hmns.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.tretyakovgallery.ru/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rmg.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.sciencemuseum.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ntmofa.gov.tw/*"><Label name="_include_"></Label></Annotation>
@@ -140,7 +134,6 @@
 <Annotation about="*.imj.org.il/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalmuseumindia.gov.in/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ngmaindia.gov.in/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.mfab.hu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.namuseum.gr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ngprague.cz/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bienal.org.br/*"><Label name="_include_"></Label></Annotation>
@@ -157,13 +150,11 @@
 <Annotation about="*.nationalgalleries.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vangoghmuseum.nl/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.uffizi.it/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.kreml.ru/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vam.ac.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hermitagemuseum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalgallery.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.britishmuseum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.museivaticani.va/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.chnmuseum.cn/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.louvre.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.brooklynmuseum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.discovernewfields.org/*"><Label name="_include_"></Label></Annotation>
@@ -225,9 +216,7 @@
 <Annotation about="*.photo-museum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nypl.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.si.edu/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.zdnet.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wired.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.weeklystandard.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vox.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vogue.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theverge.com/*"><Label name="_include_"></Label></Annotation>
@@ -237,7 +226,6 @@
 <Annotation about="*.tvguide.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.torrentfreak.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thetimes.co.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.thewrap.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.spiegel.de/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.splcenter.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.snopes.com/*"><Label name="_include_"></Label></Annotation>
@@ -249,7 +237,6 @@
 <Annotation about="*.theregister.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politifact.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politico.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.playboyenterprises.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.pewresearch.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.people.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.newsweek.com/*"><Label name="_include_"></Label></Annotation>
@@ -269,9 +256,7 @@
 <Annotation about="*.digitalspy.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.deseretnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.deadline.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.dailydot.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cnn.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.cnet.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.csmonitor.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.buzzfeednews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bloomberg.com/*"><Label name="_include_"></Label></Annotation>
@@ -329,7 +314,6 @@
 <Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gov.bc.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.harvard.edu/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.forbes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.basketball-reference.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.boxrec.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
@@ -401,7 +385,6 @@
 <Annotation about="*.racing-reference.info/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vatican.va/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.europa.eu.int/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.foxnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.epa.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.u-strasbg.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.astronautix.com/*"><Label name="_include_"></Label></Annotation>
@@ -419,7 +402,6 @@
 <Annotation about="*.catholic-hierarchy.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usda.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.qc.ca/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.news.yahoo.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tufts.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.census.gov/*"><Label name="_include_"></Label></Annotation>
@@ -444,7 +426,6 @@
 <Annotation about="*.fbi.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tate.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.espn.go.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.world.guns.ru/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.archives.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.canadiana.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ab.ca/*"><Label name="_include_"></Label></Annotation>
@@ -452,7 +433,6 @@
 <Annotation about="*.parliament.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fcc.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fox.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.info.gov.hk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.army.mod.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.villagevoice.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
@@ -490,9 +470,6 @@
 <Annotation about="*.f1-live.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.mclaren.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.planet-f1.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.f1technical.net/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.gpupdate.net/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.brawngp.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.crash.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.chicagotribune.newspapers.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="chicagotribune.newspapers.com/*"><Label name="_include_"></Label></Annotation>
@@ -502,12 +479,9 @@
 <Annotation about="*.f1technical.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.planet-f1.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.mclaren.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.f1-live.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.motorsport.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="8w.forix.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="nl.newsbank.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.worldcat.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="www.msnbc.msn.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfi.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.lemonde.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gov/"><Label name="_include_"></Label></Annotation>
@@ -539,31 +513,26 @@
 <Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.villagevoice.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="army.mod.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="info.gov.hk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fox.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fcc.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.parliament.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="news.independent.co.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ab.ca/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.canadiana.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.canadiana.ca/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.msnbc.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.archives.gov/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="world.guns.ru/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="espn.go.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="tate.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fbi.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="books.google.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gutenberg.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nbc.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="news.com.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.hinduonnet.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fws.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.economist.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fda.gov/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.space.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="abcnews.go.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.cricinfo.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.espncricinfo.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.vahighways.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="psephos.adam-carr.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.government.bg/*"><Label name="_include_"></Label></Annotation>
@@ -597,7 +566,7 @@
 <Annotation about="*.racing-reference.info/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.army.mil/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gg.ca/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.usdoj.gov/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.justice.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.lds.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fordham.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.maritimequest.com/*"><Label name="_include_"></Label></Annotation>
@@ -613,7 +582,6 @@
 <Annotation about="*.ccel.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cbsnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.emedicine.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="karachicity.gov.pk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.baseballhalloffame.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.databasefootball.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.whitehouse.gov/*"><Label name="_include_"></Label></Annotation>
@@ -664,16 +632,13 @@
 <Annotation about="*.boxrec.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wired.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.basketball-reference.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.forbes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.harvard.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="gov.bc.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wolfram.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.unt.edu/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theyworkforyou.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ibm.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.sun.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="timesonline.co.uk/*"><Label name="_include_"></Label></Annotation>
@@ -684,7 +649,6 @@
 <Annotation about="*.baseballlibrary.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nba.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="espn.go.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.rsssf.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.npr.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="abc.net.au/*"><Label name="_include_"></Label></Annotation>
@@ -716,7 +680,7 @@
 <Annotation about="*.britannica.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nsf.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nih.gov/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.nooa.gov/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.noaa.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
