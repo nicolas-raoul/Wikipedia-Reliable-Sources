@@ -4,11 +4,11 @@ Configuration for [WRS](https://en.wikipedia.org/wiki/User:Syced/Wikipedia_Refer
 
 1. Download annotations.xml.
 2. Edit it via in a simple text editor. For instance:
-  - Remove a line.
-  - Add a line by copy/pasting an existing line.
-  - Even if you do not know XML, do not worry: The only parts to touch are the URL and the include/exclude keyword.
+   - Remove a line.
+   - Add a line by copy/pasting an existing line.
+   - Even if you do not know XML, do not worry: The only parts to touch are the URL and the include/exclude keyword.
 3. Make sure the XML file is still valid, using a validator such as https://www.xmlvalidation.com.
-4. Send a [GitHub pull request](https://help.github.com/en/articles/creating-a-pull-request).
+4. [Send a GitHub pull request](https://github.com/nicolas-raoul/Wikipedia-Reliable-Sources/edit/master/annotations.xml).
 
 If you add websites, be sure that they comply with https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources.
 
