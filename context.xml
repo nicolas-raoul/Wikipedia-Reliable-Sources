@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomSearchEngine keywords="reference citation wikipedia" language="null" safesearch="false" autocompletions="false" enable_promotions="false" top_refinements="-1">
+<CustomSearchEngine
+	keywords="reference citation wikipedia"
+	language="null"
+	safesearch="false"
+	autocompletions="false"
+	enable_promotions="false"
+	top_refinements="-1"
+>
 	<Title>Wikipedia Reference Search</Title>
 	<Description>Search references for inclusion in Wikipedia.</Description>
 	<Context>
@@ -9,7 +16,11 @@
 		</BackgroundLabels>
 	</Context>
 	<LookAndFeel element_layout="1" theme="1" enable_cse_thumbnail="true" custom_theme="false" font="0">
-		<Logo url="" destination="" height="30"/>
+		<Logo
+			url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Wikipedia_Reference_Search_logo.png"
+			destination="https://en.wikipedia.org/wiki/User:Syced/Wikipedia_Reference_Search"
+			height="100"
+		/>
 		<Widget query_parameter_name="q"/>
 	</LookAndFeel>
 	<ImageSearchSettings enable="true"/>
