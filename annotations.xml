@@ -457,7 +457,6 @@
 <Annotation about="*.wsj.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.lemonde.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfi.fr/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.msnbc.msn.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.worldcat.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nl.newsbank.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.8w.forix.com/*"><Label name="_include_"></Label></Annotation>
@@ -490,10 +489,8 @@
 <Annotation about="*.espncricinfo.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="psephos.adam-carr.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="news.yahoo.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="british-history.ac.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="npg.org.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.foxnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="europa.eu.int/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.justice.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
