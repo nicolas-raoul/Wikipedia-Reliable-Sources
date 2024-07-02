@@ -427,7 +427,6 @@
 <Annotation about="*.ab.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.parliament.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fcc.gov/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.fox.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.army.mod.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.villagevoice.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
