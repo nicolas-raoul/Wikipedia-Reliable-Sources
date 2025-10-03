@@ -4,6 +4,8 @@
 <Annotation about="*.museums-ioj.org.jm/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tepapa.govt.nz/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.natlib.govt.nz/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.theyworkforyou.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.apnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nli.ie/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.museum.ie/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iziko.org.za/*"><Label name="_include_"></Label></Annotation>
