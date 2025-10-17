@@ -230,13 +230,13 @@
 <Annotation about="*.sciencebasedmedicine.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rottentomatoes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rollingstone.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.rollingstone.com/politics/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.reuters.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theregister.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politifact.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politico.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.pewresearch.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.people.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.newsweek.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nymag.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thenation.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.motherjones.com/*"><Label name="_include_"></Label></Annotation>
