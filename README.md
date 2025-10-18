@@ -21,7 +21,7 @@ Thanks!
 # Notes for the maintainer
 After accepting each GitHub pull request:
 
-1. Go to https://cse.google.com.
+1. Go to https://programmablesearchengine.google.com/controlpanel/all.
 2. Click on "Wikipedia Reference Search".
 3. Delete all sites from both `Sites to search` and `Sites to exclude` (deletion takes a minute for each page of 100 sites so that takes a rather long time).
 4. Open "Upload/Download Annotations in XML files".
