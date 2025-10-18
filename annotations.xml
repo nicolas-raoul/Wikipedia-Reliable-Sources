@@ -96,6 +96,8 @@
 <Annotation about="*.oxforddnb.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.adb.anu.edu.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.pbs.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.pbs.org/*blog*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.pbs.org/newshour/tag/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.njmuseum.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gardnermuseum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.womenshistory.org/*"><Label name="_include_"></Label></Annotation>
@@ -230,6 +232,8 @@
 <Annotation about="*.theregister.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politifact.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politico.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.politico.com/newsletters/playbook/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.politico.com/tag/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.pewresearch.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.people.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nymag.com/*"><Label name="_include_"></Label></Annotation>
@@ -242,7 +246,11 @@
 <Annotation about="*.hollywoodreporter.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thehill.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theguardian.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.theguardian.com/*/live/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.theguardian.com/profile/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.theguardian.com/*commentisfree*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.ft.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.markets.ft.com/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.ew.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.engadget.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.digitalspy.com/*"><Label name="_include_"></Label></Annotation>
@@ -255,6 +263,8 @@
 <Annotation about="*.csmonitor.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.buzzfeednews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bloomberg.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.bloomberg.com/quotes/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.bloomberg.com/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.bbc.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.avclub.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theatlantic.com/*"><Label name="_include_"></Label></Annotation>
@@ -267,6 +277,9 @@
 <Annotation about="*.nationalgeographic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nytimes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.nytimes.com/live/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.nytimes.com/topic/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.nytimes.com/*/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.nasa.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.findagrave.com/*"><Label name="_include_"></Label></Annotation>
@@ -280,6 +293,9 @@
 <Annotation about="*.navy.mil/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nscb.gov.ph/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.washingtonpost.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.washingtonpost.com/*/opinions/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.washingtonpost.com/people/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.washingtonpost.com/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.hockeydb.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nces.ed.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ethnologue.com/*"><Label name="_include_"></Label></Annotation>
@@ -447,6 +463,10 @@
 <Annotation about="*.oregonlive.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cleveland.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wsj.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.wsj.com/market-data/quotes/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.jp.wsj.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.wsj.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.wsj.com/*editorial*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.lemonde.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfi.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.worldcat.org/*"><Label name="_include_"></Label></Annotation>
@@ -487,6 +507,7 @@
 <Annotation about="parl.gc.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.noaa.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.afp.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.testing.afp.com/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.americanpressinstitute.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apnews.com/press-release/*"><Label name="exclude"></Label></Annotation>
@@ -546,10 +567,16 @@
 <Annotation about="*.polygon.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.poynter.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.propublica.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.projects.propublica.org/nonprofits/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.projects.propublica.org/527-explorer/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.propublica.org/people/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.pulitzercenter.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.qz.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rappler.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.reason.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.reason.com/tag/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.reason.com/volokh/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.reason.com/people*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.religionnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfa.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rnz.co.nz/*"><Label name="_include_"></Label></Annotation>
@@ -565,6 +592,7 @@
 <Annotation about="*.theage.com.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theaustralian.com.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theconversation.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.theconversation.com/*topics/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.thediplomat.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theglobeandmail.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thehindu.com/*"><Label name="_include_"></Label></Annotation>
