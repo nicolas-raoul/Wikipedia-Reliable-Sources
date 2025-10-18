@@ -266,7 +266,7 @@
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalgeographic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nytimes.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.blogs.nytimes.com/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.nasa.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.findagrave.com/*"><Label name="_include_"></Label></Annotation>
