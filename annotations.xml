@@ -194,7 +194,7 @@
 <Annotation about="*.vmfa.museum/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.eastman.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.getty.edu/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.shop.getty.edu/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.shop.getty.edu/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.ims.com.br/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.icp.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.loc.gov/*"><Label name="_include_"></Label></Annotation>
@@ -225,7 +225,7 @@
 <Annotation about="*.sciencebasedmedicine.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rottentomatoes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rollingstone.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.rollingstone.com/politics/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.rollingstone.com/politics/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.reuters.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theregister.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.politifact.com/*"><Label name="_include_"></Label></Annotation>
@@ -249,10 +249,9 @@
 <Annotation about="*.deseretnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.deadline.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cnn.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*transcripts.cnn.com/*"><Label name="_exclude_"></Label></Annotation>
-  <Annotation about="*.cnn.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
-  <Annotation about="*.cnn.com/*commentary*"><Label name="_exclude_"></Label></Annotation>
-
+<Annotation about="*transcripts.cnn.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.cnn.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.cnn.com/*commentary*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.csmonitor.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.buzzfeednews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bloomberg.com/*"><Label name="_include_"></Label></Annotation>
@@ -288,9 +287,9 @@
 <Annotation about="*.congress.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.abc.net.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.npr.org/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.npr.org/transcripts/*"><Label name="_exclude_"></Label></Annotation>
-  <Annotation about="*.npr.org/people/*"><Label name="_exclude_"></Label></Annotation>
-  <Annotation about="*.npr.org/*opinion/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.npr.org/transcripts/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.npr.org/people/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.npr.org/*opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rsssf.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nba.com/*"><Label name="_include_"></Label></Annotation>
@@ -302,7 +301,7 @@
 <Annotation about="*.timesonline.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.sun.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ibm.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theyworkforyou.com/*"><Label name="_include_"></Label></Annotation>
@@ -351,7 +350,7 @@
 <Annotation about="*.unesco.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.baseball-almanac.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apple.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nj.us/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fed.us/*"><Label name="_include_"></Label></Annotation>
@@ -394,7 +393,7 @@
 <Annotation about="*.catholic-hierarchy.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.qc.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.tufts.edu/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.sites.tufts.edu/educationopportunities/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.sites.tufts.edu/educationopportunities/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.census.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.virginia.edu/*"><Label name="_include_"></Label></Annotation>
@@ -405,8 +404,8 @@
 <Annotation about="*.vahighways.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cricinfo.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.abcnews.go.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.abcnews.go.com/alerts/*"><Label name="_exclude_"></Label></Annotation>
-  <Annotation about="*.abcnews.go.com/*/wireStory/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.abcnews.go.com/alerts/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.abcnews.go.com/*/wireStory/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.space.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fws.gov/*"><Label name="_include_"></Label></Annotation>
@@ -490,8 +489,8 @@
 <Annotation about="*.afp.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.americanpressinstitute.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apnews.com/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.apnews.com/press-release/*"><Label name="exclude"></Label></Annotation>
-  <Annotation about="*.apnews.com/hub/*"><Label name="exclude"></Label></Annotation>
+<Annotation about="*.apnews.com/press-release/*"><Label name="exclude"></Label></Annotation>
+<Annotation about="*.apnews.com/hub/*"><Label name="exclude"></Label></Annotation>
 <Annotation about="*.atlasobscura.com/articles*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.axios.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.behindthevoiceactors.com/*"><Label name="_include_"></Label></Annotation>
@@ -580,8 +579,7 @@
 <Annotation about="*.usnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.voanews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wabe.org/*"><Label name="_include_"></Label></Annotation>
-  <Annotation about="*.wabe.org/feed/*"><Label name="_exclude_"></Label></Annotation>
-
+<Annotation about="*.wabe.org/feed/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wfae.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.whyy.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wired.co.uk/*"><Label name="_include_"></Label></Annotation>
