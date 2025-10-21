@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
+<Annotation about="*.nationalreview.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.news.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apple.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
