@@ -5,7 +5,18 @@
 <Annotation about="*.news.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
-
+<Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.klov.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.emedicine.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.globalsecurity.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
+  
   <!-- Corporate sites -->
 <Annotation about="*.apple.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
@@ -13,8 +24,11 @@
 <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.sun.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ibm.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.wolfram.com/*"><Label name="_include_"></Label></Annotation>
+
   <!-- Sports -->
 <Annotation about="*.basketball-reference.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.rsssf.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.boxrec.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.footballdatabase.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.baseball-reference.com/*"><Label name="_include_"></Label></Annotation>
@@ -278,68 +292,63 @@
 <Annotation about="*.photo-museum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nypl.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.si.edu/*"><Label name="_include_"></Label></Annotation>
-      <!-- Misc or unsorted -->
+<Annotation about="*.americantheatrewing.org/*"><Label name="_include_"></Label></Annotation>
+
+      <!-- Internet/industry associations -->
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.findagrave.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.allmusic.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.biographi.ca/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ethnologue.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.globalsecurity.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.rsssf.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.nationalregisterofhistoricplaces.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.animenewsnetwork.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.wolfram.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.klov.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.britannica.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ibiblio.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ilo.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.nobelprize.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.chabad.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.americantheatrewing.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.pokemon.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.thecanadianencyclopedia.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.livius.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emedicine.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ccel.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.findlaw.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.marvel.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.crimelibrary.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.politicalgraveyard.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iana.org/*"><Label name="_include_"></Label></Annotation>
+
+        <!-- Entertainment -->
+<Annotation about="*.animenewsnetwork.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.pokemon.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.marvel.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.cbs.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nbc.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.channel4.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.allmusic.com/*"><Label name="_include_"></Label></Annotation>
+
+      
+
+  
+        <!-- History, books or archives -->
+<Annotation about="*.livius.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.biographi.ca/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.ethnologue.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.britannica.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.ibiblio.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.archives.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.british-history.ac.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gutenberg.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.books.google.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.nobelprize.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.thecanadianencyclopedia.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.canadiana.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.psephos.adam-carr.net/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.canadiana.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.worldcat.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nl.newsbank.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.canadiana.ca/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.crimelibrary.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.findlaw.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.findagrave.com/*"><Label name="_include_"></Label></Annotation>
+
+
+
           <!-- Religion -->
+<Annotation about="*.ccel.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.chabad.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.jewishencyclopedia.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.jewishvirtuallibrary.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.catholic-hierarchy.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.newadvent.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.lds.org/*"><Label name="_include_"></Label></Annotation>
-          <!-- Nature -->
+          <!-- Preservation -->
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iucnredlist.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.nationalregisterofhistoricplaces.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
           <!-- Transportation -->
 <Annotation about="*.vahighways.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.space.com/*"><Label name="_include_"></Label></Annotation>
@@ -349,6 +358,9 @@
 <Annotation about="*.amtrak.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.aviation-safety.net/*"><Label name="_include_"></Label></Annotation>
           <!-- Government -->
+<Annotation about="*.ilo.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.politicalgraveyard.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.psephos.adam-carr.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.epolitix.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nuclearweaponarchive.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.europa.eu.int/*"><Label name="_include_"></Label></Annotation>
