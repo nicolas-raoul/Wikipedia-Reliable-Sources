@@ -3,6 +3,9 @@
   <!-- Plan to delete -->
 <Annotation about="*.nationalreview.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.news.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
+
   <!-- Corporate sites -->
 <Annotation about="*.apple.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
