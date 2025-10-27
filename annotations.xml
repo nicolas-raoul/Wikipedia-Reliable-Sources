@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
-  <!-- Marginally reliable -->
+  <!-- Rated marginally reliable -->
 <Annotation about="*.nationalreview.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.news.com/*"><Label name="_include_"></Label></Annotation>
-  <!-- url no longer in use -->
+  <!-- just a redirect -->
+<Annotation about="news.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
-    <!-- not sure if still working or if needed -->
+    <!-- misc - not sure if still working or if needed (will specify when proposing to remove) -->
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
