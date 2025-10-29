@@ -2,11 +2,12 @@
 <Annotations>
   <!-- Rated marginally reliable -->
 <Annotation about="*.nationalreview.com/*"><Label name="_include_"></Label></Annotation>
-  <!-- just a redirect -->
+  <!-- Redirects to source now rated marginally reliable (CNET) -->
 <Annotation about="news.com/*"><Label name="_include_"></Label></Annotation>
+  <!-- Redirects to a url already included in the search engine -->
 <Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
-    <!-- misc - not sure if still working or if needed (will specify when proposing to remove) -->
+  <!-- Misc urls to investigate reliability -->
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
@@ -634,7 +635,7 @@
        <!-- IFCN members -->
 <Annotation about="*.ap.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fullfact.org/*"><Label name="_include_"></Label></Annotation>
-      <!-- Other news/journalism sources -->
+      <!-- Other news/journalism sources (such as news outlets of record in various cities, states or countries) -->
 <Annotation about="*.americanpressinstitute.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.boston.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.calmatters.org/*"><Label name="_include_"></Label></Annotation>
