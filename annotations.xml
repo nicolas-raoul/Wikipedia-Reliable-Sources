@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
-  <!-- Rated marginally reliable -->
-<Annotation about="*.nationalreview.com/*"><Label name="_include_"></Label></Annotation>
-  <!-- Redirects to source now rated marginally reliable (CNET) -->
-<Annotation about="news.com/*"><Label name="_include_"></Label></Annotation>
-  <!-- Redirects to a url already included in the search engine -->
-<Annotation about="*.redlist.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.businessweek.com/*"><Label name="_include_"></Label></Annotation>
   <!-- Misc urls to investigate reliability -->
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
@@ -339,6 +332,7 @@
 <Annotation about="*.lds.org/*"><Label name="_include_"></Label></Annotation>
           <!-- Preservation -->
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.iucnredlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalregisterofhistoricplaces.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
           <!-- Transportation -->
