@@ -339,7 +339,6 @@
 <Annotation about="*.lds.org/*"><Label name="_include_"></Label></Annotation>
           <!-- Preservation -->
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.iucnredlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalregisterofhistoricplaces.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
           <!-- Transportation -->
