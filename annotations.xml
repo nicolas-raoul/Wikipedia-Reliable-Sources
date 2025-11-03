@@ -684,39 +684,21 @@
 <Annotation about="*.vishvasnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.voxukraine.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wisconsinwatch.org/*"><Label name="_include_"></Label></Annotation>
-      <!-- Other news/journalism sources (such as news outlets of record in various cities, states or countries) -->
-<Annotation about="*.americanpressinstitute.org/*"><Label name="_include_"></Label></Annotation>
+      <!-- Other news sources (such as news outlets of record in various cities, states or countries) -->
 <Annotation about="*.boston.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.calmatters.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.calmatters.org/commentary/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.cbc.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.chicagotribune.newspapers.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.cjr.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.cjr.org/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.cleveland.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.current.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.editorandpublisher.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.efe.com/en/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.foreignaffairs.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.foreignpolicy.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.foreignpolicy.com/author/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.france24.com/en/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.gijn.org/stories/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.inn.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.journalismresearch.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.kbs-america.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.knightfoundation.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.knpr.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.kqed.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.kqed.org/perspectives/*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.niemanlab.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.niemanlab.org/tag*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.pbcjamaica.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.philly.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.pmn.co.nz/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.philanthropy.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.pewresearch.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.poynter.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfi.fr/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rnz.co.nz/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rnz.co.nz/*/on-the-inside*"><Label name="_exclude_"></Label></Annotation>
@@ -728,14 +710,34 @@
 <Annotation about="*.sfgate.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.swissinfo.ch/eng/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.swissinfo.ch/eng/opinions/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.wnyc.org/*"><Label name="_include_"></Label></Annotation>
+      <!-- Outlets that focus on journalism (can be helpful in evaluating source reliability) -->
+<Annotation about="*.americanpressinstitute.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.cjr.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.cjr.org/opinion/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.current.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.editorandpublisher.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.gijn.org/stories/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.inn.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.journalismresearch.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.knightfoundation.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.niemanlab.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.niemanlab.org/tag*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.poynter.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.towcenter.columbia.edu/*"><Label name="_include_"></Label></Annotation>
+  <!-- Members of the Institute for Nonprofit News (https://findyournews.org/explore/) -->
+<Annotation about="*.calmatters.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.calmatters.org/commentary/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.knpr.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.kqed.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.kqed.org/perspectives/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.philanthropy.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.texastribune.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.texastribune.org/people*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.towcenter.columbia.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wabe.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wabe.org/feed/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wabe.org/*news-quiz/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wfae.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wfae.org/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.whyy.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.wnyc.org/*"><Label name="_include_"></Label></Annotation>
 </Annotations>
