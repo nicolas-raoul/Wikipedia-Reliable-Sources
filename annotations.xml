@@ -478,6 +478,7 @@
 <Annotation about="*.latimes.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.latimes.com/opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.lemonde.fr/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.meduza.io/en/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.metacritic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.mg.co.za/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.mg.co.za/thought-leader*"><Label name="_exclude_"></Label></Annotation>
@@ -723,21 +724,27 @@
 <Annotation about="*.knightfoundation.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.niemanlab.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.niemanlab.org/tag*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.poynter.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.poynter.org*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.poynter.org/newsletters*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.poynter.org/*opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.towcenter.columbia.edu/*"><Label name="_include_"></Label></Annotation>
-  <!-- Members of the Institute for Nonprofit News (https://findyournews.org/explore/) -->
+  <!-- Members of the Institute for Nonprofit News (all 6 rated members deemed generally reliable) - 400+ more can be found here: https://findyournews.org/explore/ -->
 <Annotation about="*.calmatters.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.calmatters.org/commentary/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.chalkbeat.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.healthbeat.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.knpr.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.kqed.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.kqed.org/perspectives/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.philanthropy.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.texastribune.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.texastribune.org/people*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.votebeat.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wabe.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wabe.org/feed/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wabe.org/*news-quiz/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.wfae.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wfae.org/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.whyy.org/*"><Label name="_include_"></Label></Annotation>
+    <!-- Members of the Global Investigative Journalism Network (all 3 rated members deemed generally reliable) - 200+ members can be found here: https://gijn.org/membership/gijn-global-network/ -->
 </Annotations>
