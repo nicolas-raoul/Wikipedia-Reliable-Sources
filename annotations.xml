@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
   <!-- Misc urls to investigate reliability -->
-<Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.klov.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.arcade-museum.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.skydb.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.globalsecurity.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emedicine.com/*"><Label name="_include_"></Label></Annotation>
-    <!-- Industry associations -->
+  <!-- Medicine -->
+<Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
+  <!-- Industry associations -->
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
@@ -388,6 +383,7 @@
 <Annotation about="*.afp.com/fr/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.afp.com/en/search/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.testing.afp.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.avclub.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theatlantic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theatlantic.com/ideas*"><Label name="_exclude_"></Label></Annotation>
