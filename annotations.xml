@@ -384,7 +384,7 @@
 <Annotation about="*.abcnews.go.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.abcnews.go.com/alerts/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.abcnews.go.com/*/wireStory/*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.afp.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.afp.com/en/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.afp.com/fr/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.afp.com/en/search/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.testing.afp.com/*"><Label name="_exclude_"></Label></Annotation>
@@ -401,6 +401,7 @@
 <Annotation about="*.apnews.com/hub/*"><Label name="exclude"></Label></Annotation>
 <Annotation about="*.atlasobscura.com/articles*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.axios.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.ballotpedia.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bbc.co.uk/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bbc.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.bbc.com/turkce/*"><Label name="_exclude_"></Label></Annotation>
@@ -559,6 +560,7 @@
 <Annotation about="*.sciencebasedmedicine.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.scientificamerican.com/"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.scotusblog.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.searchlightmagazine.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.skepdic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.smh.com.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.snopes.com/*"><Label name="_include_"></Label></Annotation>
@@ -591,6 +593,7 @@
 <Annotation about="*.thecut.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usatoday.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usatoday.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.usatoday.com/*contributor-content*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.usnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usnews.com/opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.vanityfair.com/*"><Label name="_include_"></Label></Annotation>
