@@ -485,8 +485,8 @@
 <Annotation about="*.mondediplo.com/outsidein*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.motherjones.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.motherjones.com/*/page*"><Label name="_exclude_"></Label></Annotation>
-<Annotation about="*.msnbc.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.msnbc.com/opinion*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.ms.now/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.ms.now/opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.thenation.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalgeographic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalgeographic.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
