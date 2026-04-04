@@ -746,5 +746,9 @@
 <Annotation about="*.wfae.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wfae.org/opinion/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.whyy.org/*"><Label name="_include_"></Label></Annotation>
-    <!-- Members of the Global Investigative Journalism Network (all 3 rated members deemed generally reliable) - 200+ members can be found here: https://gijn.org/membership/gijn-global-network/ -->
-</Annotations>
+    <!-- Members of the Global Investigative Journalism Network (Coda Media and other 2 rated members deemed generally reliable are included above) - 200+ members can be found here: https://gijn.org/membership/gijn-global-network/ -->
+<Annotation about="*.ejc.net/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.fcir.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.forbiddenstories.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.cobrapost.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.freepressunlimited.org/*"><Label name="_include_"></Label></Annotation>
