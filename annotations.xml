@@ -10,7 +10,8 @@
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emedicine.com/*"><Label name="_include_"></Label></Annotation>
+      <!-- Medicine -->
+<Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
     <!-- Industry associations -->
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
