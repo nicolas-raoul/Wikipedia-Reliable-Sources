@@ -17,8 +17,6 @@
 <Annotation about="*.iana.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.edhub.ama-assn.org/*"><Label name="_include_"></Label></Annotation>
   <!-- Corporate sites -->
-<Annotation about="*.apple.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.apple.com/retail/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.sun.com/*"><Label name="_include_"></Label></Annotation>
