@@ -2,14 +2,11 @@
 <Annotations>
   <!-- Misc urls to investigate reliability -->
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.birdsoftheworld.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.arcade-museum.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
       <!-- Medicine -->
 <Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
     <!-- Industry associations -->
@@ -302,6 +299,7 @@
 <Annotation about="*.nbc.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.channel4.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.allmusic.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.arcade-museum.com/*"><Label name="_include_"></Label></Annotation>
         <!-- History, books or archives -->
 <Annotation about="*.livius.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
@@ -332,6 +330,7 @@
 <Annotation about="*.lds.org/*"><Label name="_include_"></Label></Annotation>
           <!-- Preservation -->
 <Annotation about="*.english-nature.org.uk/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.birdsoftheworld.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iucnredlist.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationalregisterofhistoricplaces.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nationaltrust.org.uk/*"><Label name="_include_"></Label></Annotation>
@@ -388,6 +387,7 @@
 <Annotation about="*.afp.com/fr/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.afp.com/en/search/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.testing.afp.com/*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.amnesty.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.avclub.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theatlantic.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theatlantic.com/ideas*"><Label name="_exclude_"></Label></Annotation>
