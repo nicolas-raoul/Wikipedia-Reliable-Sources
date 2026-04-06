@@ -2,7 +2,7 @@
 <Annotations>
   <!-- Misc urls to investigate reliability -->
 <Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.hbw.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.birdsoftheworld.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.klov.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
