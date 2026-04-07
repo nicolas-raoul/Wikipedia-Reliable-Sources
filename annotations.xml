@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
-  <!-- Misc urls to investigate reliability -->
-<Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.faqs.org/*"><Label name="_include_"></Label></Annotation>
+  <!-- Misc urls that we want to investigate their reliability -->
+<Annotation about="*.rfc-editor.org/*"><Label name="_include_"></Label></Annotation>
       <!-- Medicine -->
 <Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
     <!-- Industry associations -->
@@ -286,6 +283,7 @@
 <Annotation about="*.photo-museum.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.nypl.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.si.edu/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.americantheatrewing.org/*"><Label name="_include_"></Label></Annotation>
         <!-- Entertainment -->
 <Annotation about="*.animenewsnetwork.com/*"><Label name="_include_"></Label></Annotation>
