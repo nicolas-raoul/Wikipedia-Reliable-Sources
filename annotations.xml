@@ -576,6 +576,7 @@
 <Annotation about="*.themarysue.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.thepinknews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.theregister.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.theregister.com/tag*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.thewire.in/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.time.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.timesonline.co.uk/*"><Label name="_include_"></Label></Annotation>
@@ -587,6 +588,8 @@
 <Annotation about="*.thecut.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usatoday.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usatoday.com/*opinion*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.usatoday.com/*contributor-content*"><Label name="_exclude_"></Label></Annotation>
+<Annotation about="*.usatoday.com/press-release*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.usnews.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.usnews.com/opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.vanityfair.com/*"><Label name="_include_"></Label></Annotation>
