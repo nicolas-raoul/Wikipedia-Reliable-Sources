@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
   <!-- Misc urls to investigate reliability -->
-<Annotation about="*.iht.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.stationreporter.net/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.euskomedia.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.emporis.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
