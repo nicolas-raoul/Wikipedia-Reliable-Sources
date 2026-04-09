@@ -299,7 +299,6 @@
 <Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.biographi.ca/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ethnologue.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.britannica.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ibiblio.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.archives.gov/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.british-history.ac.uk/*"><Label name="_include_"></Label></Annotation>
