@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
   <!-- Misc urls that we want to investigate their reliability -->
-<Annotation about="*.rfc-editor.org/*"><Label name="_include_"></Label></Annotation>
    <!-- Technology -->
 <Annotation about="*.technologyreview.com/*"><Label name="_include_"></Label></Annotation>   
 <Annotation about="*.themarkup.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
 <Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>    
-  <!-- Medicine -->
-<Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
     <!-- Industry associations -->
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.rfc-editor.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.iana.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.edhub.ama-assn.org/*"><Label name="_include_"></Label></Annotation>
+ <!-- Medicine -->
+<Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.kff.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.statnews.com/*"><Label name="_include_"></Label></Annotation>
   <!-- Corporate sites -->
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
