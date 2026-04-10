@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Annotations>
-  <!-- Misc urls that we want to investigate their reliability -->
-   <!-- Technology -->
+   <!-- Technology and science -->
 <Annotation about="*.technologyreview.com/*"><Label name="_include_"></Label></Annotation>   
 <Annotation about="*.themarkup.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
-<Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>    
+<Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>  
+<Annotation about="*.sciencenews.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.science.feedback.org/*"><Label name="_include_"></Label></Annotation>    
     <!-- Industry associations -->
 <Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
