@@ -1,32 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Annotations>
-   <!-- Technology and science -->
-<Annotation about="*.technologyreview.com/*"><Label name="_include_"></Label></Annotation>   
-<Annotation about="*.themarkup.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
-<Annotation about="*.theinformation.com/*"><Label name="_include_"></Label></Annotation>    
-<Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>  
-<Annotation about="*.science.org/*"><Label name="_include_"></Label></Annotation>  
-<Annotation about="*.sciencenews.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.science.feedback.org/*"><Label name="_include_"></Label></Annotation>    
+<Annotations>   
     <!-- Industry associations -->
-<Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.edhub.ama-assn.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.iana.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ieee.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ietf.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rfc-editor.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.fas.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.iana.org/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.edhub.ama-assn.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.w3.org/*"><Label name="_include_"></Label></Annotation>
+
+  <!-- Science/technology -->
+<Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
+<Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.science.feedback.org/*"><Label name="_include_"></Label></Annotation> 
+<Annotation about="*.science.org/*"><Label name="_include_"></Label></Annotation>  
+<Annotation about="*.sciencenews.org/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.technologyreview.com/*"><Label name="_include_"></Label></Annotation>   
+<Annotation about="*.theinformation.com/*"><Label name="_include_"></Label></Annotation> 
+<Annotation about="*.themarkup.org/*"><Label name="_include_"></Label></Annotation>
  <!-- Medicine -->
 <Annotation about="*.emedicine.medscape.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.kff.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.statnews.com/*"><Label name="_include_"></Label></Annotation>
   <!-- Corporate sites -->
+<Annotation about="*.ibm.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.microsoft.com/en-us/store/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.sun.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.ibm.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.wolfram.com/*"><Label name="_include_"></Label></Annotation>
+  <!-- Entertainment -->
+<Annotation about="*.allmusic.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.animenewsnetwork.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.arcade-museum.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.cbs.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.channel4.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.marvel.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.nbc.com/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.pokemon.com/*"><Label name="_include_"></Label></Annotation>
   <!-- Sports -->
 <Annotation about="*.basketball-reference.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.rsssf.com/*"><Label name="_include_"></Label></Annotation>
@@ -297,15 +307,6 @@
 <Annotation about="*.si.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.marxists.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.americantheatrewing.org/*"><Label name="_include_"></Label></Annotation>
-        <!-- Entertainment -->
-<Annotation about="*.animenewsnetwork.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.pokemon.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.marvel.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.cbs.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.nbc.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.channel4.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.allmusic.com/*"><Label name="_include_"></Label></Annotation>
-<Annotation about="*.arcade-museum.com/*"><Label name="_include_"></Label></Annotation>
         <!-- History, books or archives -->
 <Annotation about="*.livius.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.gutenberg.org/*"><Label name="_include_"></Label></Annotation>
@@ -383,7 +384,7 @@
 <Annotation about="*.un.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.unesco.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.ilo.org/*"><Label name="_include_"></Label></Annotation>
-          <!-- WP:PRS -->
+          <!-- WP:RSP (Reliable sources from the perennial sources list) -->
 <Annotation about="*.abc.net.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.abcnews.go.com/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.abcnews.go.com/alerts/*"><Label name="_exclude_"></Label></Annotation>
@@ -736,7 +737,7 @@
 <Annotation about="*.poynter.org/newsletters*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.poynter.org/*opinion*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.towcenter.columbia.edu/*"><Label name="_include_"></Label></Annotation>
-  <!-- Members of the Institute for Nonprofit News (all 6 rated members deemed generally reliable) - 400+ more can be found here: https://findyournews.org/explore/ -->
+  <!-- Members of the Institute for Nonprofit News (all 6 members rated on WP:RSP deemed generally reliable) - 400+ more can be found here: https://findyournews.org/explore/ -->
 <Annotation about="*.calmatters.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.calmatters.org/commentary/*"><Label name="_exclude_"></Label></Annotation>
 <Annotation about="*.chalkbeat.org/*"><Label name="_include_"></Label></Annotation>
