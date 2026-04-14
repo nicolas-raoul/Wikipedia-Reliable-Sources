@@ -6,6 +6,7 @@
 <Annotation about="*.platformer.news/*"><Label name="_include_"></Label></Annotation>    
 <Annotation about="*.theinformation.com/*"><Label name="_include_"></Label></Annotation>    
 <Annotation about="*.quantamagazine.org/*"><Label name="_include_"></Label></Annotation>  
+<Annotation about="*.science.org/*"><Label name="_include_"></Label></Annotation>  
 <Annotation about="*.sciencenews.org/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.science.feedback.org/*"><Label name="_include_"></Label></Annotation>    
     <!-- Industry associations -->
@@ -101,8 +102,10 @@
 <Annotation about="*.princeton.edu/"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.adb.anu.edu.au/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.stanford.edu/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.ssir.org/*"><Label name="_include_"></Label></Annotation>  
 <Annotation about="*.unt.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.harvard.edu/*"><Label name="_include_"></Label></Annotation>
+<Annotation about="*.hbr.org/*"><Label name="_include_"></Label></Annotation>  
 <Annotation about="*.uchicago.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.utexas.edu/*"><Label name="_include_"></Label></Annotation>
 <Annotation about="*.mit.edu/*"><Label name="_include_"></Label></Annotation>
